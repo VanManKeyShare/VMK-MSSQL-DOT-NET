@@ -1,0 +1,2 @@
+# VMK-MSSQL-DOT-NET
+Class VMK-MSSQL For .NET
