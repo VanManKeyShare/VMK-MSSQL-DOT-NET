@@ -180,7 +180,7 @@ namespace MMManager
 {
     public class VMK_MSSQL
     {
-        public readonly string Version = "2.3";
+        public readonly string Version = "2.4";
 
         public string QUERY;
         public DataTable PARAMETERS;
