@@ -1,2 +1,2 @@
 # VMK-MSSQL-DOT-NET
-Class VMK-MSSQL For .NET - Version 2.3
+Class VMK-MSSQL For .NET - Version 2.4
